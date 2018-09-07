@@ -1,0 +1,25 @@
+{
+  "name": "0x.js-v0",
+  "version": "0.38.6",
+  "description": "Package exporting v0.x of 0x.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioJuliano/0x.js-v0.git"
+  },
+  "keywords": [
+    "0x.js"
+  ],
+  "author": "Antonio Juliano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioJuliano/0x.js-v0/issues"
+  },
+  "homepage": "https://github.com/AntonioJuliano/0x.js-v0#readme",
+  "dependencies": {
+    "0x.js": "0.38.6"
+  }
+}
